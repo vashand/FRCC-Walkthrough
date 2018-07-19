@@ -1,8 +1,14 @@
 # FRCC-Walkthrough
 
-Hi Friends!
+Hi Friends!  Welcome!  Come on in!  I'm happy to be working on this project with you.  I certainly understand that to most of you, both Unity and Git are new to you.  With that in mind, I have created a quick guide to how this project will be run.  It probably sucks.  But you you find an issue, [submit it](https://github.com/IkonOne/FRCC-Walkthrough/issues)!
 
-Here are some references for those new to Unity and git.
+## Getting Started
+
+1. Complete the Setup portion of the Git section below.  Make sure that you can open the project in Unity.
+2. Comment on one of the issues [here](https://github.com/IkonOne/FRCC-Walkthrough/issues) to "claim" it as your own.
+3. Work on that issue by following the git workflow section and then following the tutorials on Probuilder below.
+
+That should be enough to get you started.  If you have any issues please feel free to reach out to be via Discord(which I am almost never on anymore), phone, or message me directly on github (I get emails).
 
 ## Git
 
